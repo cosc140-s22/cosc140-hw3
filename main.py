@@ -1,2 +1,2 @@
-import passchecker
+import urlchecker
 import ghost
