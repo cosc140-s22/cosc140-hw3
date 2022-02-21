@@ -17,7 +17,7 @@ def load_wordlist():
 
 def main():
     words = load_wordlist()
-    print("{} words loaded.".format(len(words)))
+    print(f"{len(words)} words loaded.")
 
     # you can start your code here, inside main
 
